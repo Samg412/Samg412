@@ -1,5 +1,11 @@
 ## Oiii eu sou Samuel Goulart, 
 🎓 Sou estudante do 3º ano do Ensino Médio com curso técnico em Análise e Desenvolvimento de Sistemas
+## 📊 GitHub Stats
+
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelgoulart&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelgoulart&layout=compact&theme=tokyonight)
+
 
 💻 Apaixonado por tecnologia, programação e resolução de problemas
 
