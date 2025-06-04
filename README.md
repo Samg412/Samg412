@@ -6,7 +6,7 @@
 📚 Estou sempre aprendendo e explorando novas linguagens, ferramentas e projetos
 
 🚀 Buscando oportunidades para crescer na área de desenvolvimento de software
-## 📊 My Skills## 
+## 📊 My Skills
 
 ![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelgoulart&show_icons=true&theme=tokyonight)
 
