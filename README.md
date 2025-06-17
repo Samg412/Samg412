@@ -8,9 +8,9 @@
 🚀 Buscando oportunidades para crescer na área de desenvolvimento de software
 ## 📊 My Skills
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelgoulart&show_icons=true&theme=tokyonight)
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelgoulart&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelgoulart&layout=compact&langs_count=3&theme=tokyonight&hide=python,java,c,c++,php)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelgoulart&layout=compact&langs_count=3&theme=dark&hide=python,java,c,c++,php)
 
 
 <div style="display: inline_block"><br>
