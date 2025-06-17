@@ -1,21 +1,32 @@
-## Oiii eu sou Samuel Goulart, 
-🎓 Sou estudante do 3º ano do Ensino Médio com curso técnico em Análise e Desenvolvimento de Sistemas
+## 👋 Olá! Meu nome é Samuel Goulart  
 
-💻 Apaixonado por tecnologia, programação e resolução de problemas
+🎓 Sou estudante do 3º ano do Ensino Médio com curso técnico em Análise e Desenvolvimento de Sistemas  
 
-📚 Estou sempre aprendendo e explorando novas linguagens, ferramentas e projetos
+💻 Apaixonado por tecnologia, programação e resolução de problemas  
 
-🚀 Buscando oportunidades para crescer na área de desenvolvimento de software
-## 📊 My Skills
+📚 Estou sempre aprendendo e explorando novas linguagens, ferramentas e projetos  
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelgoulart&show_icons=true&theme=dark)
+🚀 Buscando oportunidades para crescer na área de desenvolvimento de software  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelgoulart&layout=compact&langs_count=3&theme=dark&hide=python,java,c,c++,php)
+## 📊 GitHub Stats 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Samg412&show_icons=true&theme=dark" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samg412&layout=compact&langs_count=3&theme=dark&hide=python,java,c,c++,php" />
+    </td>
+    <td>
+      <img src=https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDVpbGFjdm80ZmNrMHVjbjN2OXR2YnZoaWpncTYzanB6cHVkNWVuMSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/qbtSJYQgUIVgs/giphy.gif />
+    </td>
+  </tr>
+</table>
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-  
+## 🧠 Tecnologias que estou estudando 
+<p align="left">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+</p>
